@@ -1,6 +1,3 @@
-# Airflow
- Airflow Course
-
 ## Python packages in WSL
 pip install apache-airflow
 
